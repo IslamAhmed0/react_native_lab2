@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const Profile = ()=> {
     return(
         <View style={styles.container}>
-            <Text style={{ fontSize: 10,color: 'white'}}>
+            <Text style={{ fontSize: 30,color: 'white'}}>
                 my Profile :)
             </Text>
         </View>
